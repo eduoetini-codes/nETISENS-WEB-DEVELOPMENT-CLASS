@@ -1,0 +1,14 @@
+let num1 = [];
+console.log(num1);
+num1.push(1);
+console.log(num1);
+num1.push(2);
+console.log(num1);
+num1.push(3);
+console.log(num1);
+num1.pop();
+console.log(num1); 
+num1.shift(); 
+console.log(num1);
+num1.unshift(5);
+console.log(num1);
