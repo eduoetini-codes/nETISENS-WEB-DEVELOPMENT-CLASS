@@ -34,3 +34,5 @@ const africa = document.querySelector('span');
 africa.style.color = "green";
 africa.style.fontSize = "100px";
 africa.style.fontFamily = "poppins";
+
+
